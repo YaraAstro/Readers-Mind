@@ -1,0 +1,24 @@
+Welcom to Readers' Mind
+    We are here to share your and our reading experience with ohers. With this application you can add your reading experience to our database using form which is given on Readers' Mind home page.
+    So lets discuss about the 'Form' thing.
+        -> First you must type the name of your book in fist typing space.
+        -> Second type the writter's name of you book in second typing space.
+        -> Next Select the category of your book that you've read from the selection list.
+        -> After that hit the date of published of your book.
+        -> Then describe it. Such as how you feel it, what a about it or summary of the book that you've read or etc.
+        -> Finally, enter your e-mail. because we need to gather some reading society to enlarge the reading hobby!
+    ** If you had enter something wrong you can refresh the feed by hitiing 'Retry' button which is stays bottom of the form with red background.
+    So, now you've fill the form. Then hit the 'Lets Go' button which is stays on bottom of the form with green background.
+    Congratulations! now you've share your reading experience with the world.
+
+    ** If your details send to our sever correctly, you will see the huge 'New Book added Successfully !' message.
+    If you don't see that message that mean Something went wrong :(.
+
+    If you face insident like that, Lets go back to home page and start the filling form.
+
+Not only this application include the form, but also there is a search query too.
+Then you can find about reading experiences of people by using the search bar.
+
+So that is it. I hope you enjoy that :).
+
+=======================================================================================

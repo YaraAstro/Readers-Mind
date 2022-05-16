@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+body {
+    margin: 0%;
+    font-family: 'Macondo', cursive;
+    background-image: url('photo_2022-05-15_15-04-17 (2).jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    color: bisque;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 100px;
+    font-size: 2em;
+    width: 80%;
+    overflow-x: hidden;
+}
+
+h3 {
+    font-size: 3em;
+    font-style: italic;
+    color: rgb(247, 228, 203);
+    font-weight: normal;
+}
+
+
+/*bottum*/
+
+.botm {
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0.65) 40%, rgba(0, 0, 0, 0) 100%);
+    margin-top: 15vh;
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+}
+
+.botm .qt {
+    text-align: center;
+    font-size: 1em;
+    font-family: 'Shadows Into Light', cursive;
+    color: blanchedalmond;
+    letter-spacing: 3px;
+    position: relative;
+    width: max-content;
+    left: 20%;
+}
+
+.botm .qt::before {
+    content: open-quote;
+    position: absolute;
+    font-family: 'Montagu Slab', serif;
+    color: rgb(190, 177, 156);
+    font-size: 5em;
+    left: -5vw;
+    top: -5vw;
+    opacity: 25%;
+}
+
+.botm .btmtbl {
+    display: inline-flex;
+    width: 70%;
+    margin-left: 15%;
+    justify-content: space-around
+}
+
+.botm .btmtbl p {
+    font-size: 0.5em;
+    color: burlywood;
+    font-family: 'Kalam', cursive;
+}
